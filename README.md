@@ -1,12 +1,12 @@
 # 100devs-2025 ReadMe File
-# New #100Devs Learn with Leon A FREE Coding Bootcamp
+## New #100Devs Learn with Leon A FREE Coding Bootcamp
 👋 Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻
 Hey there! 👋 I’m on an exciting journey, proving that it’s never too late to transition into tech.
 
 (🌱 Growth is a Winding Path, not a Straight Line)
 
-# Project(s) Goals:
-# Date: Wed, May 7, 2025
+## Project(s) Goals:
+### Date: Wed, May 7, 2025
 Restarting this wonderful free coding bootcamp by #100Devs Learn with Leon A FREE Coding Bootcamp Coding!
 Add a new date coding journal coding-journal-25 README.md file
 Continue to create new Anki Notes per topic learned
@@ -28,7 +28,7 @@ Sharing my self-taught coding journey in my late 40s. | Starting over in Mexico 
 
 
 # #100Devs - Previous Start Log History - 
-# Session Logs - Sunday, April 30, 2023 7:07 pm PST 
+### Session Logs - Sunday, April 30, 2023 7:07 pm PST 
 
 ### Day 0: Sunday, April 30, 2023
 
