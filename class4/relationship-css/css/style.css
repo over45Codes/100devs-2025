@@ -8,6 +8,10 @@ h2 {
 } */
 
 section > h2 {
-    color: yellow;
+    color: blue;
 
+}
+
+h2 {
+    color: red;
 }
