@@ -1,6 +1,11 @@
 /* <!-- Please make the li's blue, underlined, 15px, and have a gray background --> */
 
-
+li{
+    color: blue;
+    text-decoration: underline;
+    font-size: 15px;
+    background: gray;
+}
 
 
 
