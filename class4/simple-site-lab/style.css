@@ -10,13 +10,21 @@ body{
 h1{
     color: white;
 }
+nav span {
+  color: white;
+}
+
+nav a {
+  color: green;
+}
+
 .container {
   background-color: rgb(67, 193, 235);
   border: 15px solid green;
   border-width: 10px;
   position: relative;
   padding: 15px;
-  height: 1400px;
+  height: 700px;
 }
 
 header {
@@ -39,6 +47,7 @@ section {
   width: 65%;
   margin: 1em;
   float: left;
+  color: white;
 }
 
 /* footer {
@@ -52,7 +61,7 @@ footer {
   text-align: center; /* height of the footer */
 }
 
-.footer a { 
+footer a { 
   color: green;
 }
 
