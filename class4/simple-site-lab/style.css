@@ -1,0 +1,44 @@
+* {
+  background-color: rgb(67, 193, 235);
+}
+
+.container {
+  background-color: rgb(67, 193, 235);
+  border: 15px solid orange;
+  border-width: 10px;
+  position: relative;
+  height: 1000px;
+}
+
+header {
+  text-align: center;
+  height: 15%;
+  background-color: blue;
+  margin: 1em;
+}
+
+nav {
+  text-align: center;
+  height: 10%;
+  background-color: blue;
+  margin: 1em;
+  padding: 10px;
+}
+
+section {
+  height: 100%;
+  width: 65%;
+  margin: 1em;
+  float: left;
+}
+
+footer {
+  height: 50px; /* the footer's total height */
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  text-align: center; /* height of the footer */
+}
