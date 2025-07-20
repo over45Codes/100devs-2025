@@ -1,7 +1,48 @@
 /* Please Make only Rhino and Zebra Blue */
+/* different ways to write this. see below.  */
+
+/* Notes: target rhino class */
+/* #rhino {
+color: blue;
+}
+
+Notes: target rhino class
+#zebra {
+    color: blue;
+}
+
+Notes: target rhino id
+.africa{
+color: blue;
+}
+
+Notes: target rhino classes
+#rhino,#zebra {
+    color: blue;
+} */
+
+/* Notes: target rhino id */
+.top h2 {
+    color: blue;
+}
 
 /* Please Make only Hufflepuff Gold */
+#bestHouse {
+    color: gold;
+}
+
+/* .triWizardChamp {
+    color: gold;
+} */
 
 /* Please select Duck with the highest level of specificity possible */
 
+h2.likesToQuack.fight1Or100{
+
+}
+
 /* Please select Rhino with the highest level of specificity possible */
+h2.#rhino.africa.fourLegs{
+    
+}
+
