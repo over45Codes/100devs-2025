@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  /* This box-sizing: border-box;rule will tell the page to ignore borders when calcuating the width, so that on the section part it does not add up the 3px of the border, otherwise the sections don't fit in side to side on the page */
+}
+
+header,
+footer {
+  height: 100px;
+  border: 3px solid black;
+  clear: both;
+}
+section {
+  height: 300px;
+  width: 33.3333%;
+  border: 3px solid black;
+  float: left;
+}
+p {
+  margin: 0;
+  height: 500px;
+  width: 50%;
+  border: 3px solid black;
+  float: left;
+}
