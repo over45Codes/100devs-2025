@@ -1,3 +1,8 @@
+@media screen and (max-width: 800px) {
+  section {
+    background: red;
+  }
+}
 /* Please make "This is an ad..." blue, but make sure it is specific enough that you could add other h3's somewhere eles in the document. */
 #rugratsWildThornberrysBestCrossOverAllTime > .extraExtraReadAllAboutIt > h3{
   color: blue;
