@@ -24,7 +24,8 @@ span{
 section{
   width: 25%;
   height: 200px;
-  justify-items: center;
+  margin: 0 auto;
+   /* This is used to center it */
   border: solid 10px purple;
 }
 
