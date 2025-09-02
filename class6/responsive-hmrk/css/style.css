@@ -1,8 +1,8 @@
-@media screen and (max-width: 800px) {
+/* @media screen and (max-width: 800px) {
  .second-section {
     background: red;
   }
-}
+} */
 * {
   box-sizing: border-box;
   /* This box-sizing: border-box;rule will tell the page to ignore borders when calcuating the width, so that on the section part it does not add up the 3px of the border, otherwise the sections don't fit in side to side on the page */
@@ -16,6 +16,9 @@ footer {
 }
 
 .left-section {
+  @media screen and (max-width: 900px) {
+    background: red;
+  }
   height: 600px;
   width: 33.3333%;
   border: 3px solid black;
@@ -23,6 +26,9 @@ footer {
 }
 
 .second-section {
+   @media screen and (max-width: 700px) {
+    background: blueviolet;
+  }
   height: 600px;
   width: 33.3333%;
   border-bottom: 3px solid black;
@@ -32,6 +38,9 @@ footer {
 
 
 .right-section {
+   @media screen and (max-width: 600px) {
+    background: pink;
+  }
  height: 600px;
 width: 33.3333%;
   border: 3px solid black;
