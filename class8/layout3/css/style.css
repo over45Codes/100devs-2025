@@ -29,12 +29,26 @@ body {
 /******************************************
 /* LAYOUT
 /*******************************************/
-header nav *{
-   float: left;
+header {
+    height: 55px;
+    background:  black;
+    color: white
 }
 
+nav *{
+  float: left;
+  width: 10%;
+  color: white;
+  display: block;
+}
 
+nav ul{
+  width: 50%;
+}
 
-/******************************************
+nav form input{
+  width: 100%;
+}
+***************************************
 /* ADDITIONAL STYLES
 /*******************************************/
